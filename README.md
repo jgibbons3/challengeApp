@@ -2,7 +2,7 @@
 
 1. Create a folder in your local machine where you want to clone the project.
 2. cd into folder from step 1.
-3. git clone 
+3. git clone git@github.com:jgibbons3/challengeApp.git
 4. cd challengeApp 
 5. npm install
 6. npm start
